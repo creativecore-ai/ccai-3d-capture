@@ -3,7 +3,7 @@
 > End-to-end Gaussian Splatting workflow, capture real objects/spaces in 3D using a smartphone, optimize for web, embed on your site. The "Gaussian Splatting business" playbook.
 
 
-> **Part of [ccai-skills-pack](https://github.com/cory-dot/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
+> **Part of [ccai-skills-pack](https://github.com/creativecore-ai/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
 
 **Slash command:** `/ccai-3d-capture`
 **Status:** v0.1 · Tier C · works with Claude Code
@@ -58,7 +58,7 @@ The workflow covers:
 ## Install
 
 ```bash
-git clone https://github.com/cory-dot/ccai-3d-capture ~/.claude/skills/ccai-3d-capture
+git clone https://github.com/creativecore-ai/ccai-3d-capture ~/.claude/skills/ccai-3d-capture
 ```
 
 ## Usage
@@ -92,14 +92,14 @@ The skill produces a client deliverable + invoice template for each capture if y
 
 ## Part of the Creative Core AI skills pack
 
-This skill is part of [`ccai-skills-pack`](https://github.com/cory-dot/ccai-skills-pack), the full Creative Core AI skill library (32 skills total). Two ways to install:
+This skill is part of [`ccai-skills-pack`](https://github.com/creativecore-ai/ccai-skills-pack), the full Creative Core AI skill library (32 skills total). Two ways to install:
 
 ```bash
 # Just this skill (ad-hoc)
-git clone https://github.com/cory-dot/ccai-3d-capture ~/.claude/skills/ccai-3d-capture
+git clone https://github.com/creativecore-ai/ccai-3d-capture ~/.claude/skills/ccai-3d-capture
 
 # Or the entire pack
-git clone https://github.com/cory-dot/ccai-skills-pack ~/ccai-skills-pack && cd ~/ccai-skills-pack && ./install.sh
+git clone https://github.com/creativecore-ai/ccai-skills-pack ~/ccai-skills-pack && cd ~/ccai-skills-pack && ./install.sh
 ```
 
 ## License
